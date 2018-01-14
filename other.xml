@@ -1,40 +1,19 @@
 <application>
-  <component name="AppInspectionProfilesVisibleTreeState">
-    <entry key="Default">
-      <profile-state>
-        <expanded-state>
-          <State>
-            <id />
-          </State>
-          <State>
-            <id>Python</id>
-          </State>
-        </expanded-state>
-        <selected-state>
-          <State>
-            <id>PyCompatibilityInspection</id>
-          </State>
-        </selected-state>
-      </profile-state>
-    </entry>
+  <component name="OCRunConfigurationsSettings">
+    <option name="STOP_RUNNING_SESSION_AUTOMATICALLY" value="true" />
   </component>
-  <component name="PyTestFrameworkService">
-    <option name="SDK_TO_PYTEST">
-      <map>
-        <entry key="/Library/Frameworks/Python.framework/Versions/3.6/bin/python3.6" value="true" />
-        <entry key="$USER_HOME$/doctrine/bin/python" value="true" />
-      </map>
-    </option>
-    <option name="SDK_TO_NOSETEST">
-      <map>
-        <entry key="/Library/Frameworks/Python.framework/Versions/3.6/bin/python3.6" value="false" />
-        <entry key="$USER_HOME$/doctrine/bin/python" value="false" />
-      </map>
-    </option>
-    <option name="SDK_TO_TRIALTEST">
-      <map>
-        <entry key="/Library/Frameworks/Python.framework/Versions/3.6/bin/python3.6" value="false" />
-      </map>
+  <component name="TeamCityHistory">
+    <option name="HISTORY" value="http://builds.willowtreeapps.com&amp;^%$#@greg.niemann@#$%^&amp;http://http://builds.willowtreeapps.com&amp;^%$#@greg.niemann" />
+  </component>
+  <component name="XcodeSettings">
+    <option name="selectedXcode" value="/Applications/Xcode9_2.app/Contents/Developer" />
+    <option name="detectedXcodes">
+      <list>
+        <option value="/Applications/Xcode9_2.app/Contents/Developer" />
+        <option value="/Applications/Xcode9_1.app/Contents/Developer" />
+        <option value="/Applications/Xcode.app/Contents/Developer" />
+        <option value="/Applications/Xcode8.app/Contents/Developer" />
+      </list>
     </option>
   </component>
 </application>
