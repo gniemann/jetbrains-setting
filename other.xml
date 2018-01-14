@@ -1,0 +1,19 @@
+<application>
+  <component name="OCRunConfigurationsSettings">
+    <option name="STOP_RUNNING_SESSION_AUTOMATICALLY" value="true" />
+  </component>
+  <component name="TeamCityHistory">
+    <option name="HISTORY" value="http://builds.willowtreeapps.com&amp;^%$#@greg.niemann@#$%^&amp;http://http://builds.willowtreeapps.com&amp;^%$#@greg.niemann" />
+  </component>
+  <component name="XcodeSettings">
+    <option name="selectedXcode" value="/Applications/Xcode9_2.app/Contents/Developer" />
+    <option name="detectedXcodes">
+      <list>
+        <option value="/Applications/Xcode9_2.app/Contents/Developer" />
+        <option value="/Applications/Xcode9_1.app/Contents/Developer" />
+        <option value="/Applications/Xcode.app/Contents/Developer" />
+        <option value="/Applications/Xcode8.app/Contents/Developer" />
+      </list>
+    </option>
+  </component>
+</application>
