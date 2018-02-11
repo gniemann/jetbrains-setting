@@ -2,7 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="Cartfile" type="PLAIN_TEXT" />
-      <mapping ext="p7b" type="PLAIN_TEXT" />
+      <mapping ext="template" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
