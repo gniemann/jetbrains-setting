@@ -3,6 +3,9 @@
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="alt t" />
   </action>
+  <action id="AppCode.OpenInXcodeAction">
+    <keyboard-shortcut first-keystroke="shift meta x" />
+  </action>
   <action id="Build">
     <keyboard-shortcut first-keystroke="meta f9" />
     <keyboard-shortcut first-keystroke="shift meta b" />
