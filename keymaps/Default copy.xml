@@ -3,9 +3,6 @@
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="alt t" />
   </action>
-  <action id="AppCode.OpenInXcodeAction">
-    <keyboard-shortcut first-keystroke="shift meta x" />
-  </action>
   <action id="Build">
     <keyboard-shortcut first-keystroke="meta f9" />
     <keyboard-shortcut first-keystroke="shift meta b" />
@@ -19,11 +16,6 @@
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="meta back_space" />
     <keyboard-shortcut first-keystroke="meta k" />
-  </action>
-  <action id="EditorJoinLines" />
-  <action id="ExternalJavaDoc">
-    <keyboard-shortcut first-keystroke="shift f1" />
-    <keyboard-shortcut first-keystroke="shift ctrl j" />
   </action>
   <action id="Git.ResolveConflicts">
     <keyboard-shortcut first-keystroke="alt r" />
