@@ -1,12 +1,17 @@
 <scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2018-02-09T09:25:32</property>
+    <property name="created">2018-04-03T08:44:07</property>
     <property name="ide">AppCode</property>
-    <property name="ideVersion">2017.3.2.0.0</property>
-    <property name="modified">2018-02-09T16:09:17</property>
+    <property name="ideVersion">2018.1.0.0</property>
+    <property name="modified">2018-04-03T08:53:46</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <attributes>
+    <option name="CONSOLE_GREEN_BRIGHT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="64c067" />
+      </value>
+    </option>
     <option name="CONSOLE_GREEN_OUTPUT">
       <value>
         <option name="FOREGROUND" value="31c022" />
