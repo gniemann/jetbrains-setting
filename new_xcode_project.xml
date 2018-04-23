@@ -1,7 +1,7 @@
 <application>
   <component name="XcodeNewProjectMetadata">
     <lastUsedFolder path="$USER_HOME$/Documents" />
-    <string key="organizationName" value="LIDL" />
+    <string key="organizationName" value="Lidl" />
     <string key="languageChoice" value="Swift" />
     <boolean key="hasUnitTests" value="true" />
     <boolean key="coreData" value="false" />
