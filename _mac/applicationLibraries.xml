@@ -16,6 +16,14 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/atomos-0.1.2/lib" />
       </SOURCES>
     </library>
+    <library name="bundler (v1.16.1, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/bundler-1.16.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/bundler-1.16.1/lib" />
+      </SOURCES>
+    </library>
     <library name="CFPropertyList (v2.2.8, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/gems/2.3.0/gems/CFPropertyList-2.2.8/lib" />
@@ -42,10 +50,10 @@
     </library>
     <library name="cocoapods (v1.5.0, ruby-2.0.0-p648) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/cocoapods-1.5.0/lib" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-1.5.0/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/cocoapods-1.5.0/lib" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-1.5.0/lib" />
       </SOURCES>
     </library>
     <library name="cocoapods-core (v1.5.0, ruby-2.0.0-p648) [gem]">
