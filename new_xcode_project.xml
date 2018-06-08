@@ -3,9 +3,9 @@
     <lastUsedFolder path="$USER_HOME$/Documents" />
     <string key="organizationName" value="Lidl" />
     <string key="languageChoice" value="Swift" />
-    <boolean key="hasUnitTests" value="true" />
+    <boolean key="hasUnitTests" value="false" />
     <boolean key="coreData" value="false" />
-    <string key="bundleIdentifierPrefix" value="com.lidl" />
+    <string key="bundleIdentifierPrefix" value="com.lidl.nfc" />
     <boolean key="hasUITests" value="false" />
   </component>
 </application>
