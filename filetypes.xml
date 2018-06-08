@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="Cartfile" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
+      <mapping ext="entitlements" type="XML" />
     </extensionMap>
   </component>
 </application>
