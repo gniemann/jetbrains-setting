@@ -3,6 +3,12 @@
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
+  <action id="ActivateDatabaseToolWindow">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
+  <action id="ActivatePythonConsoleToolWindow">
+    <keyboard-shortcut first-keystroke="alt e" />
+  </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt t" />
   </action>
@@ -45,6 +51,10 @@
     <mouse-shortcut keystroke="shift button2" />
   </action>
   <action id="Images.ShowThumbnails" />
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="alt n" />
+  </action>
   <action id="RiderUnitTestRunContextAction">
     <keyboard-shortcut first-keystroke="shift meta t" />
   </action>
@@ -53,12 +63,20 @@
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
   <action id="RunDashboard.ShowConfigurations" />
+  <action id="Switcher">
+    <keyboard-shortcut first-keystroke="ctrl tab" />
+    <keyboard-shortcut first-keystroke="shift ctrl tab" />
+    <keyboard-shortcut first-keystroke="escape" second-keystroke="escape" />
+  </action>
   <action id="UsageView.Exclude">
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
   <action id="Vcs.Push">
     <keyboard-shortcut first-keystroke="alt p" />
+  </action>
+  <action id="WebServicesPlugin.CreateRESTClient">
+    <keyboard-shortcut first-keystroke="alt h" />
   </action>
   <action id="XDebugger.RemoveWatch">
     <keyboard-shortcut first-keystroke="delete" />
