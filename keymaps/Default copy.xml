@@ -38,5 +38,8 @@
   <action id="Vcs.Push">
     <keyboard-shortcut first-keystroke="alt p" />
   </action>
+  <action id="WebServicesPlugin.CreateRESTClient">
+    <keyboard-shortcut first-keystroke="alt h" />
+  </action>
   <action id="context.clear" />
 </keymap>
