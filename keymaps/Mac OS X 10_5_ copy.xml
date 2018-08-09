@@ -63,11 +63,6 @@
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
   <action id="RunDashboard.ShowConfigurations" />
-  <action id="Switcher">
-    <keyboard-shortcut first-keystroke="ctrl tab" />
-    <keyboard-shortcut first-keystroke="shift ctrl tab" />
-    <keyboard-shortcut first-keystroke="escape" second-keystroke="escape" />
-  </action>
   <action id="UsageView.Exclude">
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
