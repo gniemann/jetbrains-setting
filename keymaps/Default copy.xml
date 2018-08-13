@@ -9,6 +9,10 @@
   <action id="Build">
     <keyboard-shortcut first-keystroke="shift meta b" />
   </action>
+  <action id="ChangesView.Revert">
+    <keyboard-shortcut first-keystroke="meta alt z" />
+    <keyboard-shortcut first-keystroke="alt z" />
+  </action>
   <action id="CheckinProject">
     <keyboard-shortcut first-keystroke="alt c" />
   </action>
