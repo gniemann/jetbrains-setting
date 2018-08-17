@@ -48,7 +48,6 @@
   </action>
   <action id="Images.ShowThumbnails" />
   <action id="RenameElement">
-    <keyboard-shortcut first-keystroke="shift f6" />
     <keyboard-shortcut first-keystroke="alt n" />
   </action>
   <action id="RiderUnitTestRunContextAction">
