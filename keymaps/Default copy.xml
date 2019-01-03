@@ -46,6 +46,10 @@
     <mouse-shortcut keystroke="shift meta button1" />
     <mouse-shortcut keystroke="shift button2" />
   </action>
+  <action id="HideActiveWindow" />
+  <action id="HideAllWindows">
+    <keyboard-shortcut first-keystroke="shift escape" />
+  </action>
   <action id="Pause">
     <keyboard-shortcut first-keystroke="ctrl numpad4" />
   </action>
