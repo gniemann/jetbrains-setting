@@ -50,6 +50,9 @@
   <action id="HideAllWindows">
     <keyboard-shortcut first-keystroke="shift escape" />
   </action>
+  <action id="MoveEditorToOppositeTabGroup">
+    <keyboard-shortcut first-keystroke="alt back_slash" />
+  </action>
   <action id="Pause">
     <keyboard-shortcut first-keystroke="ctrl numpad4" />
   </action>
