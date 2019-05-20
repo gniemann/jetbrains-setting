@@ -53,6 +53,10 @@
     <mouse-shortcut keystroke="shift meta button1" />
     <mouse-shortcut keystroke="shift button2" />
   </action>
+  <action id="HideActiveWindow" />
+  <action id="HideAllWindows">
+    <keyboard-shortcut first-keystroke="shift escape" />
+  </action>
   <action id="Images.ShowThumbnails" />
   <action id="MoveEditorToOppositeTabGroup">
     <keyboard-shortcut first-keystroke="alt back_slash" />
