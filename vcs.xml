@@ -50,7 +50,4 @@
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Documents" />
   </component>
-  <component name="VcsApplicationSettings">
-    <option name="PATCH_STORAGE_LOCATION" value="$APPLICATION_HOME_DIR$/bin" />
-  </component>
 </application>
