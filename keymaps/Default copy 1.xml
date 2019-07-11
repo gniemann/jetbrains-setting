@@ -2,8 +2,17 @@
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt t" />
   </action>
+  <action id="Build">
+    <keyboard-shortcut first-keystroke="ctrl b" />
+  </action>
   <action id="CheckinProject">
     <keyboard-shortcut first-keystroke="alt c" />
+  </action>
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="meta k" />
+  </action>
+  <action id="EditorLeft">
+    <keyboard-shortcut first-keystroke="left" />
   </action>
   <action id="Git.Commit.And.Push.Executor">
     <keyboard-shortcut first-keystroke="ctrl alt c" />
